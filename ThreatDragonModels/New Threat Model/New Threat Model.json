@@ -37,6 +37,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 1,
             "ports": {
               "groups": {
                 "top": {
@@ -120,7 +121,6 @@
               ]
             },
             "id": "9f76d870-43d7-427c-bec2-0511f3ed379e",
-            "zIndex": 1,
             "data": {
               "type": "tm.Process",
               "name": "Process",
@@ -154,6 +154,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 2,
             "ports": {
               "groups": {
                 "top": {
@@ -237,7 +238,6 @@
               ]
             },
             "id": "2a2e4c12-f8ea-4440-9919-75bf01cba0df",
-            "zIndex": 2,
             "data": {
               "type": "tm.Actor",
               "name": "Actor",
@@ -281,6 +281,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 3,
             "ports": {
               "groups": {
                 "top": {
@@ -364,7 +365,6 @@
               ]
             },
             "id": "43022065-4324-4eeb-9217-c5f920ce4401",
-            "zIndex": 3,
             "data": {
               "type": "tm.Store",
               "name": "User Database",
@@ -405,6 +405,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 4,
             "ports": {
               "groups": {
                 "top": {
@@ -488,7 +489,6 @@
               ]
             },
             "id": "860a1af6-e335-4a1f-b710-53cf2f43d2ef",
-            "zIndex": 4,
             "data": {
               "type": "tm.Store",
               "name": "Report Database",
@@ -529,6 +529,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 5,
             "ports": {
               "groups": {
                 "top": {
@@ -612,7 +613,6 @@
               ]
             },
             "id": "ebab28b1-85dc-495e-995c-6c60aca28619",
-            "zIndex": 5,
             "data": {
               "type": "tm.Store",
               "name": "Donation Database",
@@ -653,6 +653,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 6,
             "ports": {
               "groups": {
                 "top": {
@@ -736,7 +737,6 @@
               ]
             },
             "id": "2c2dc942-d6da-43e1-b8f6-9c2a1a93ec01",
-            "zIndex": 6,
             "data": {
               "type": "tm.Store",
               "name": "Chat Database",
@@ -777,6 +777,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 7,
             "ports": {
               "groups": {
                 "top": {
@@ -860,7 +861,6 @@
               ]
             },
             "id": "f9d74441-6f1d-46d0-87d5-376f51a914fa",
-            "zIndex": 7,
             "data": {
               "type": "tm.Store",
               "name": "Call Database",
@@ -898,6 +898,7 @@
             },
             "visible": true,
             "shape": "store",
+            "zIndex": 8,
             "ports": {
               "groups": {
                 "top": {
@@ -981,7 +982,6 @@
               ]
             },
             "id": "2941c9b2-d317-4043-bd0f-e3987407eeb6",
-            "zIndex": 8,
             "data": {
               "type": "tm.Store",
               "name": "Store",
@@ -1019,6 +1019,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 9,
             "ports": {
               "groups": {
                 "top": {
@@ -1102,7 +1103,6 @@
               ]
             },
             "id": "0447fcc7-efc9-4cc0-8d4a-4faa1b2c3440",
-            "zIndex": 9,
             "data": {
               "type": "tm.Actor",
               "name": "Client",
@@ -1136,6 +1136,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 10,
             "ports": {
               "groups": {
                 "top": {
@@ -1219,7 +1220,6 @@
               ]
             },
             "id": "8f018e9c-c7bf-402c-81c2-6e246bf3e49d",
-            "zIndex": 10,
             "data": {
               "type": "tm.Actor",
               "name": "Therapist",
@@ -1253,6 +1253,7 @@
             },
             "visible": true,
             "shape": "actor",
+            "zIndex": 11,
             "ports": {
               "groups": {
                 "top": {
@@ -1336,7 +1337,6 @@
               ]
             },
             "id": "71f36343-bf17-4a26-874f-b667ba8db5b8",
-            "zIndex": 11,
             "data": {
               "type": "tm.Actor",
               "name": "Admin",
